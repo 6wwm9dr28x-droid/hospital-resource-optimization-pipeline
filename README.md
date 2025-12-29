@@ -123,6 +123,7 @@ This ensures full reproducibility of results.
 
 
 Author
-
-Max Makhsudov
+```text
+Magomed Makhsudov
 Data Engineering Project
+```
