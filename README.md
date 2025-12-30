@@ -89,7 +89,7 @@ python src/evaluation/rq1_basic_stats.py
 All tables and figures will be saved automatically to the tables/ and figures/ folders.
 
 
-##Apache Airflow DAG
+## Apache Airflow DAG
 
 ## This project includes one complete Apache Airflow DAG that conceptually represents the full pipeline.
 ```text
