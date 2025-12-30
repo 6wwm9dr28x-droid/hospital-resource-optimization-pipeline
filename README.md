@@ -91,7 +91,7 @@ All tables and figures will be saved automatically to the tables/ and figures/ f
 
 ## Apache Airflow DAG
 
-## This project includes one complete Apache Airflow DAG that conceptually represents the full pipeline.
+This project includes one complete Apache Airflow DAG that conceptually represents the full pipeline.
 ```text
 DAG Details
 	•	DAG name: hospital_resource_optimization_pipeline
